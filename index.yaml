@@ -8,6 +8,6 @@ entries:
     digest: 756016b64cc6894b0d63b3efe13208bb7470b2e41a376b84e13780b740e6fe18
     name: kafdrop
     urls:
-    - https://github.com/edajko/kafdrop.git/kafdrop-0.1.0.tgz
+    - kafdrop-0.1.0.tgz
     version: 0.1.0
 generated: "2022-12-20T14:43:09.632867+01:00"
