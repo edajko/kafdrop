@@ -3,11 +3,11 @@ entries:
   kafdrop:
   - apiVersion: v1
     appVersion: 3.x
-    created: "2022-12-20T14:43:09.633748+01:00"
+    created: "2022-12-20T14:47:09.455453+01:00"
     description: A Helm chart for Kafdrop
     digest: 756016b64cc6894b0d63b3efe13208bb7470b2e41a376b84e13780b740e6fe18
     name: kafdrop
     urls:
-    - kafdrop-0.1.0.tgz
+    - https://edajko.github.io/kafdrop/kafdrop-0.1.0.tgz
     version: 0.1.0
-generated: "2022-12-20T14:43:09.632867+01:00"
+generated: "2022-12-20T14:47:09.454575+01:00"
